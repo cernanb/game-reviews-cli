@@ -1,0 +1,5 @@
+#!/usr/local/bin ruby
+
+require_relative '../lib/games_review'
+
+CLI.new.start
